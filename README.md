@@ -1,6 +1,6 @@
 # nodes
 List of known Squeaknode instances
 
-| Pubkey (optional)      | Address     |
-| ---------------------- | ----------- |
-| mypubkey               | myaddress   |
+| Owner     | Pubkey (optional)      | Address     |
+| --------- | ---------------------- | ----------- |
+| me        | Header                 | Title       |
