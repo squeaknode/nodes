@@ -10,4 +10,7 @@ List of known Squeaknode instances
 - David Croisant:
   * pubkey: 8b02e7584333f60f766a12157157428cfd5e0d74bc9251c6946f0c44c2b9fcef
   * address: http://5jihfjfbapivme5fwumveybuyzmuv52cuwtex6kzkpm4dk7ek7jeqzad.onion:8555
+- chrisguida:
+  * pubkey: d654103b85a5aca9eb3fa6a2419448ccfd9d36596da4580d935875fcb567803b
+  * address: http://btwtrfv2a3oifhshc7blsuso7r756gb7sam5fq2hfimvzhz5h2nmniid.onion:8555
 - Open a pull request to add your node here.
