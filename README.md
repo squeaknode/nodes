@@ -13,4 +13,7 @@ List of known Squeaknode instances
 - chrisguida:
   * pubkey: d654103b85a5aca9eb3fa6a2419448ccfd9d36596da4580d935875fcb567803b
   * address: http://btwtrfv2a3oifhshc7blsuso7r756gb7sam5fq2hfimvzhz5h2nmniid.onion:8555
+- Küsnachter:
+  * pubkey: 16c73a98f22a122101e3e323c99f9c28fddb44241abc22e5a9f9c2a6d6b803ca
+  * address: http://ng5cvrgyjirduetbldvxxfcxmdtxuqer6x2iyruqhhvef4io2sfjroad.onion:8555
 - Open a pull request to add your node here.
