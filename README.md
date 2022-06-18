@@ -4,4 +4,7 @@ List of known Squeaknode instances
 - [@yzernik](https://github.com/yzernik):
   * pubkey: 070663f17905669bfef954d0709bd4a5b39b698198499cfc10987b9abde4ba60
   * address: http://5zd5rejnbegg6web64nj7smac4qfdt3kmsbmdhmjeiqtsm6k5og4gsyd.onion:8555
+- [Seccour](https://twitter.com/Seccour_FR):
+  * pubkey: 1ac7cbd6489dbbb4ecdcdd2d8d0f251d3400e7372b7a09dd78dccc6e2bae0e82
+  * address: http://n4zxzcoldd3cy3vu4hjb7lhkwmvlefk5jr3n6ojnbzly2ojjhq4ylxyd.onion:8555
 - Open a pull request to add your node here.
