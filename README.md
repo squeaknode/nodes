@@ -16,4 +16,7 @@ List of known Squeaknode instances
 - Küsnachter:
   * pubkey: 16c73a98f22a122101e3e323c99f9c28fddb44241abc22e5a9f9c2a6d6b803ca
   * address: http://ng5cvrgyjirduetbldvxxfcxmdtxuqer6x2iyruqhhvef4io2sfjroad.onion:8555
+- lasjun_s:
+  * pubkey: c6036c173595fba585867ec86302c9764e39787ab69eb5eb0d1bc40c76a9381b
+  * address: http://x7lzw6dagoox5zmxqrv2l4j3skrhuunwugjz6hhxo5rodagudk7mfsad.onion:8555
 - Open a pull request to add your node here.
