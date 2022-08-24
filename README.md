@@ -19,4 +19,7 @@ List of known Squeaknode instances
 - lasjun_s:
   * pubkey: c6036c173595fba585867ec86302c9764e39787ab69eb5eb0d1bc40c76a9381b
   * address: http://x7lzw6dagoox5zmxqrv2l4j3skrhuunwugjz6hhxo5rodagudk7mfsad.onion:8555
+- cryptovios:
+  * pubkey: 401a9612381130f0268d9f747a19a77519f062a10c2516f8bf6612cba9b77f53
+  * address: http://2h7zg4kioozweo4fgtakgze3kz4lrbcn7ixg2rtrocvridmk7zsneqyd.onion:8555
 - Open a pull request to add your node here.
